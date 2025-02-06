@@ -10,5 +10,5 @@ The primary users of the application would be:
 
 - Anyone in the community that is willing to volunteer their time and effort to something that they are passioanted about.
 - Nonprofit organizations are that seeking support from the community.
-- Donors that want to donate to help support nonprofit movements.
+- Donors that want to donate to help support nonprofit activities.
 - People that are looking for a job in the nonprofit field.
